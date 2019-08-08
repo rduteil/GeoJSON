@@ -7,7 +7,7 @@
 			"properties":
 			{
 				"Admin": "France",
-				"Name": "Saint Pierre et Miquelon"
+				"Name": "Saint Pierre and Miquelon"
 			},
 			"geometry":
 			{
@@ -106,7 +106,7 @@
 			"properties":
 			{
 				"Admin": "France",
-				"Name": "Saint Barthélemy"
+				"Name": "Saint Barthelemy"
 			},
 			"geometry":
 			{
@@ -287,7 +287,7 @@
 			"properties":
 			{
 				"Admin": "France",
-				"Name": "Wallis et Futuna"
+				"Name": "Wallis and Futuna"
 			},
 			"geometry":
 			{
@@ -374,7 +374,7 @@
 			"properties": 
 			{
 				"Admin": "France",
-				"Name": "Polynésie française"
+				"Name": "French Polynesia"
 			},
 			"geometry":
 			{
@@ -536,7 +536,7 @@
 			"properties":
 			{
 				"Admin": "France",
-				"Name": "Nouvelle Calédonie"
+				"Name": "New Caledonia"
 			},
 			"geometry":
 			{
@@ -1111,7 +1111,7 @@
 			"properties":
 			{
 				"Admin": "France",
-				"Name": "Guyane française"
+				"Name": "French Guiana"
 			},
 			"geometry":
 			{
@@ -1882,7 +1882,7 @@
 			"properties":
 			{
 				"Admin": "France",
-				"Name": "La Réunion"
+				"Name": "Reunion"
 			},
 			"geometry":
 			{
@@ -1984,8 +1984,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Métropole"
+				"Admin": "France"
 			},
 			"geometry":
 			{
