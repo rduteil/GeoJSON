@@ -6,8 +6,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Saint Pierre and Miquelon"
+				"name": "Saint Pierre and Miquelon, France"
 			},
 			"geometry":
 			{
@@ -105,8 +104,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Saint Barthelemy"
+				"name": "Saint Barthelemy, France"
 			},
 			"geometry":
 			{
@@ -184,8 +182,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Saint Martin"
+				"name": "Saint Martin, France"
 			},
 			"geometry":
 			{
@@ -286,8 +283,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Wallis and Futuna"
+				"name": "Wallis and Futuna, France"
 			},
 			"geometry":
 			{
@@ -373,8 +369,7 @@
 			"type": "Feature",
 			"properties": 
 			{
-				"Admin": "France",
-				"Name": "French Polynesia"
+				"name": "French Polynesia, France"
 			},
 			"geometry":
 			{
@@ -535,8 +530,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "New Caledonia"
+				"name": "New Caledonia, France"
 			},
 			"geometry":
 			{
@@ -896,8 +890,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Guadeloupe"
+				"name": "Guadeloupe, France"
 			},
 			"geometry":
 			{
@@ -1110,8 +1103,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "French Guiana"
+				"name": "French Guiana, France"
 			},
 			"geometry":
 			{
@@ -1616,8 +1608,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Martinique"
+				"name": "Martinique, France"
 			},
 			"geometry":
 			{
@@ -1768,8 +1759,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Mayotte"
+				"name": "Mayotte, France"
 			},
 			"geometry":
 			{
@@ -1881,8 +1871,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France",
-				"Name": "Reunion"
+				"name": "Reunion, France"
 			},
 			"geometry":
 			{
@@ -1984,7 +1973,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "France"
+				"name": "France"
 			},
 			"geometry":
 			{
