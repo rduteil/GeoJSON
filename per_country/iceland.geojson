@@ -6,7 +6,7 @@
 			"type": "Feature",
 			"properties":
 			{
-				"Admin": "Iceland"
+				"name": "Iceland"
 			},
 			"geometry":
 			{
